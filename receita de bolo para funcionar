@@ -1,0 +1,6 @@
+1º = npm install -g react-native-cli
+2º = npx create-expo-app appteste -t
+3º = cd appteste
+4º = npx expo install react-native-web react-dom @expo/metro-runtime
+5º = npx expo install react-native-web react-dom -- --force
+6º = npm run web
